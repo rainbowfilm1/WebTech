@@ -1,0 +1,3 @@
+To-demonstrate-the-how-to-read,write,&close-file.js
+
+this frogram of the file 
